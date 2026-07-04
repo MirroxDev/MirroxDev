@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+%F0%9F%91%8B+I'm+MirroxDev;Senior+Full-Stack+Developer" alt="Typing SVG" />
 
 <p>
-  <a href="https://t.me/MirroxDev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:mikokscolabaration@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/mirrox_dev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:devmirrox@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/MirroxDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -99,7 +99,18 @@ motto: "From idea to production — architecture, code, deploy, scale."
 <br>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-FF6F00?style=flat-square&logo=ai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6C63FF?style=flat-square&logo=probot&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square&logo=openai&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Function_Calling-FF4500?style=flat-square&logo=lightning&logoColor=white)
+![Structured Output](https://img.shields.io/badge/Structured_Output-2D3748?style=flat-square&logo=json&logoColor=white)
+![AI Voice](https://img.shields.io/badge/AI_Voice-FF9900?style=flat-square&logo=audiomack&logoColor=white)
+![AI Image Gen](https://img.shields.io/badge/AI_Image_Gen-FF69B4?style=flat-square&logo=stability-ai&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![Telegram Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 
@@ -112,28 +123,23 @@ motto: "From idea to production — architecture, code, deploy, scale."
 <table>
   <tr>
     <td align="center" width="150">
-      <img width="40" src="https://cdn.simpleicons.org/rocket/6C63FF" alt="SaaS" /><br>
-      <b>SaaS</b><br>
+      <img src="https://img.shields.io/badge/-SaaS-6C63FF?style=for-the-badge&logo=lightning&logoColor=white" /><br>
       <sub>Platforms</sub>
     </td>
     <td align="center" width="150">
-      <img width="40" src="https://cdn.simpleicons.org/salesforce/00A1E0" alt="CRM" /><br>
-      <b>CRM / ERP</b><br>
+      <img src="https://img.shields.io/badge/-CRM_/_ERP-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /><br>
       <sub>Systems</sub>
     </td>
     <td align="center" width="150">
-      <img width="40" src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Marketplace" /><br>
-      <b>Marketplaces</b><br>
+      <img src="https://img.shields.io/badge/-Marketplaces-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" /><br>
       <sub>E-Commerce</sub>
     </td>
     <td align="center" width="150">
-      <img width="40" src="https://cdn.simpleicons.org/openai/412991" alt="AI" /><br>
-      <b>AI Services</b><br>
+      <img src="https://img.shields.io/badge/-AI_Services-412991?style=for-the-badge&logo=openai&logoColor=white" /><br>
       <sub>Agents & Chats</sub>
     </td>
     <td align="center" width="150">
-      <img width="40" src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" /><br>
-      <b>Telegram</b><br>
+      <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><br>
       <sub>Bots & Mini Apps</sub>
     </td>
   </tr>
@@ -158,14 +164,9 @@ DevOps & Deploy     ████████████████████
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MirroxDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirroxDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MirroxDev&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+<a href="https://github.com/MirroxDev">
+  <img src="https://streak-stats.demolab.com?user=MirroxDev&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
